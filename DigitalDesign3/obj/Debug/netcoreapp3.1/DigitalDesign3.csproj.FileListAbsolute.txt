@@ -1,0 +1,16 @@
+C:\Users\toma0\source\repos\DigitalDesign3\DigitalDesign3\obj\Debug\netcoreapp3.1\DigitalDesign3.csprojAssemblyReference.cache
+C:\Users\toma0\source\repos\DigitalDesign3\DigitalDesign3\obj\Debug\netcoreapp3.1\DigitalDesign3.AssemblyInfoInputs.cache
+C:\Users\toma0\source\repos\DigitalDesign3\DigitalDesign3\obj\Debug\netcoreapp3.1\DigitalDesign3.AssemblyInfo.cs
+C:\Users\toma0\source\repos\DigitalDesign3\DigitalDesign3\obj\Debug\netcoreapp3.1\DigitalDesign3.csproj.CoreCompileInputs.cache
+C:\Users\toma0\source\repos\DigitalDesign3\DigitalDesign3\bin\Debug\netcoreapp3.1\DigitalDesign3.exe
+C:\Users\toma0\source\repos\DigitalDesign3\DigitalDesign3\bin\Debug\netcoreapp3.1\DigitalDesign3.deps.json
+C:\Users\toma0\source\repos\DigitalDesign3\DigitalDesign3\bin\Debug\netcoreapp3.1\DigitalDesign3.runtimeconfig.json
+C:\Users\toma0\source\repos\DigitalDesign3\DigitalDesign3\bin\Debug\netcoreapp3.1\DigitalDesign3.runtimeconfig.dev.json
+C:\Users\toma0\source\repos\DigitalDesign3\DigitalDesign3\bin\Debug\netcoreapp3.1\DigitalDesign3.dll
+C:\Users\toma0\source\repos\DigitalDesign3\DigitalDesign3\bin\Debug\netcoreapp3.1\DigitalDesign3.pdb
+C:\Users\toma0\source\repos\DigitalDesign3\DigitalDesign3\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\toma0\source\repos\DigitalDesign3\DigitalDesign3\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\toma0\source\repos\DigitalDesign3\DigitalDesign3\obj\Debug\netcoreapp3.1\DigitalDesign3.csproj.CopyComplete
+C:\Users\toma0\source\repos\DigitalDesign3\DigitalDesign3\obj\Debug\netcoreapp3.1\DigitalDesign3.dll
+C:\Users\toma0\source\repos\DigitalDesign3\DigitalDesign3\obj\Debug\netcoreapp3.1\DigitalDesign3.pdb
+C:\Users\toma0\source\repos\DigitalDesign3\DigitalDesign3\obj\Debug\netcoreapp3.1\DigitalDesign3.genruntimeconfig.cache
